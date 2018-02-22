@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode;
+//package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
@@ -178,7 +178,7 @@ public class BlueV1 extends LinearOpMode {
 
 
         //transitions to initialized driver program
-        org.firstinspires.ftc.teamcode.AutoTransitioner.transitionOnStop(this, "driverControl");
+        //org.firstinspires.ftc.teamcode.AutoTransitioner.transitionOnStop(this, "driverControl");
 
         waitForStart();
 

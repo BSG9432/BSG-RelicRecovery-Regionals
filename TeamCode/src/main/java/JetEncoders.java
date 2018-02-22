@@ -1,3 +1,4 @@
+/*
 import android.app.Activity;
 import android.view.View;
 
@@ -85,7 +86,7 @@ public class JetEncoders extends LinearOpMode
      *  1) Move gets to the desired position
      *  2) Move runs out of time
      *  3) Driver stops the opmode running.
-     */
+     *//*
     public void encoderDrive(double speed,
                              double leftInches, double rightInches,
                              double timeoutS) {
@@ -152,3 +153,4 @@ public class JetEncoders extends LinearOpMode
 
     }
 }
+*/
