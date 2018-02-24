@@ -15,7 +15,8 @@ import com.qualcomm.robotcore.util.Range;
 
 import org.firstinspires.ftc.teamcode.AutoTransition;
 
-@Autonomous(name="Blue 2 ILT", group="BLUE")
+@Autonomous(name="Blue 2 ILT", group="z")
+@Disabled
 public class Blue2Jewel extends LinearOpMode {
 
     public DcMotor rightM;

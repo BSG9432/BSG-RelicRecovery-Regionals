@@ -22,7 +22,7 @@ import org.firstinspires.ftc.teamcode.AutoTransition;
 
 import static org.firstinspires.ftc.robotcore.external.navigation.RelicRecoveryVuMark.*;
 
-@Autonomous(name="BlueVu", group = "VUFORIA")
+@Autonomous(name="BlueVu", group = "z")
 @Disabled
 public class BlueVu extends LinearOpMode {
 

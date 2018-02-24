@@ -15,7 +15,7 @@ import com.qualcomm.robotcore.util.Range;
 
 import org.firstinspires.ftc.teamcode.AutoTransition;
 
-@Autonomous(name="Red 2 JEWEL", group="RED")
+@Autonomous(name="Red 2 JEWEL", group="z")
 @Disabled
 public class Red2Jewel extends LinearOpMode {
 

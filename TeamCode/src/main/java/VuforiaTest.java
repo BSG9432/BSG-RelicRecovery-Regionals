@@ -59,8 +59,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
  * is explained in {@link ConceptVuforiaNavigation}.
  */
 
-@Autonomous(name="Vuforia Debugging", group ="Z")
-@Disabled
+@Autonomous(name="Vuforia Debugging", group ="z")
 public class VuforiaTest extends LinearOpMode {
 
     public static final String TAG = "Vuforia VuMark Sample";
@@ -165,7 +164,6 @@ public class VuforiaTest extends LinearOpMode {
             else {
                 telemetry.addData("VuMark", "not visible");
             }
-
             telemetry.update();
         }
     }

@@ -15,7 +15,7 @@ import org.firstinspires.ftc.teamcode.AutoTransition;
  * Created by 299970 on 1/5/2018.
  */
 
-@Autonomous(name="Red 3 ILT", group="BLUE")
+@Autonomous(name="Red 3 ILT", group="z")
 @Disabled
 public class Red3Jewel extends LinearOpMode {
 

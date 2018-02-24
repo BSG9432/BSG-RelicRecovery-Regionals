@@ -15,7 +15,8 @@ import com.qualcomm.robotcore.util.Range;
 
 import org.firstinspires.ftc.teamcode.AutoTransition;
 
-@Autonomous(name="Red 1 ILT", group="BLUE")
+@Autonomous(name="Red 1 ILT", group="z")
+@Disabled
 public class ILTRed1 extends LinearOpMode {
 
     public DcMotor rightM;

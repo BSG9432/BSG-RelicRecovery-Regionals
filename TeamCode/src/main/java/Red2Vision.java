@@ -25,7 +25,7 @@ import org.firstinspires.ftc.teamcode.AutoTransition;
 
 import static org.firstinspires.ftc.robotcore.external.navigation.RelicRecoveryVuMark.*;
 
-@Autonomous(name="Red 2 VUFORIA", group = "RED")
+@Autonomous(name="Red 2 VUFORIA", group = "z")
 @Disabled
 public class Red2Vision extends LinearOpMode {
 

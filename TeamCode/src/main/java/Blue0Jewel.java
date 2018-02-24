@@ -15,7 +15,7 @@ import org.firstinspires.ftc.teamcode.AutoTransition;
  * Created by 299970 on 1/5/2018.
  */
 
-@Autonomous(name="Blue 0 JEWEL", group="BLUE")
+@Autonomous(name="Blue 0 JEWEL", group="z")
 @Disabled
 public class Blue0Jewel extends LinearOpMode {
 
